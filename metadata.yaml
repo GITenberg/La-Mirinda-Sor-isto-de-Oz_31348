@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31348#La-Mirinda-Sor-isto-de-Oz
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2010-02-22'
 gutenberg_type: Text

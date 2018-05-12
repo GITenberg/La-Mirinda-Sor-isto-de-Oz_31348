@@ -1,0 +1,59 @@
+_repo: La-Mirinda-Sor-isto-de-Oz_31348
+_version: 0.1.0
+alternative_title: The Wonderful Wizard of Oz. Esperanto
+contributor:
+  translator:
+    agent_name: Broadribb, Donald
+    birthdate: 1933
+    deathdate: 2012
+    gutenberg_agent_id: '35170'
+    url: http://www.gutenberg.org/2009/agents/35170
+    wikipedia: http://eo.wikipedia.org/wiki/Donald_Broadribb
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Fitzgerald, Capt. Hugh
+    - Baum, Lyman Frank
+    - Van Dyne, Edith
+    - Akers, Floyd
+    - Bancroft, Laura
+    - Fitzgerald, Hugh
+    - Cooke, John Estes
+    - Metcalf, Suzanne
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2010-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31348'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature'
+- !lcsh 'Good and evil -- Juvenile fiction'
+- !lcsh 'Wizard of Oz (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Toto (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Cyclones -- Juvenile fiction'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- !lcsh 'Scarecrow (Fictitious character from Baum) -- Juvenile fiction'
+- !lcsh 'Gale, Dorothy (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Home -- Juvenile fiction'
+- !lcsh 'Tin Woodman (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Cowardly Lion (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Witches -- Juvenile fiction'
+- !lcsh 'Dreams -- Juvenile fiction'
+- !lcc 'PZ'
+title: La Mirinda Sorĉisto de Oz
+url: http://www.gutenberg.org/ebooks/31348
